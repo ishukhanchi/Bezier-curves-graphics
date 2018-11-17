@@ -42,7 +42,7 @@ Clone the repository. git clone [https://github.com/ishukhanchi/Bezier-curves-gr
    Open terminal and follow following commands:
    * Change directory to repository. cd Bezier-curves-graphics <br> 
    * Type g++ bz1.cpp -lglut -lGLU -lGL
-   * Type a./out
+   * Type ./a.out
    * Press "i" key on the keyboard to initiate the making of petals.
    * The output image will be:<br>
    ![output image](image.jpg)
